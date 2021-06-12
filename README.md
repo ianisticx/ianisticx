@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianisticx
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ML and AI
+- 🌱 I’m currently learning CI/CD processes
 - 💞️ I’m looking to collaborate on interesting projects that improve user experiences
 - 📫 How to reach me -> @ianisticx on twitter
 
